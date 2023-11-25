@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+.bi-person{
+    font-size: 25px;
+    color: #333;
+    margin-right: 20px;
+
+}
+.bi-basket2-fill{
+    font-size: 25px;
+    color: #333;
+    margin-right: 20px;
+}
+.bi-search{
+    font-size: 25px;
+    color: #333;
+    margin-right: 20px;
+}
+.card h4{
+    position: absolute;
+    top: 0;
+    right: 0px;
+    background-color: red;
+    width: 90px;
+    height: 90px;
+    text-align: end;
+    padding-right: 5px;
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 100% 100%);
+    color: aliceblue;
+}
+.community{
+    margin-top: 300px;
+}
